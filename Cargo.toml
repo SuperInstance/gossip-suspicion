@@ -1,9 +1,11 @@
 [package]
 name = "gossip-suspicion"
 version = "0.1.0"
-description = "A Rust library for Gossip Suspicion"
+description = "Gossip Suspicion — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/gossip-suspicion"
+repository = "https://github.com/SuperInstance/gossip-suspicion"
 edition = "2021"
+
+keywords = ["gossip-suspicion"]
 
 [dependencies]
